@@ -1,4 +1,3 @@
-# Clean - FiveM Server Pack
 ![CleanLogo](https://i.imgur.com/A1uhWjY.png)
 ![FiveM](https://img.shields.io/badge/FiveM-Server%20Pack-orange)
 
