@@ -1,7 +1,7 @@
 # Clean - FiveM Server Pack
 
 ![FiveM](https://img.shields.io/badge/FiveM-Server%20Pack-orange)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 Welcome to **Clean**, the ultimate FiveM server pack designed for performance, stability, and customization. This pack includes a curated selection of scripts, assets, and configurations that are optimized to provide a seamless and enjoyable experience for your FiveM server.
 
@@ -41,17 +41,7 @@ Feel free to modify the scripts and configurations to suit your server's needs. 
 
 ## Contributing
 
-We welcome contributions to improve Clean. If you have suggestions, bug reports, or would like to add new features, please create an issue or submit a pull request.
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**: `git checkout -b feature/AmazingFeature`
-3. **Commit Your Changes**: `git commit -m 'Add some AmazingFeature'`
-4. **Push to the Branch**: `git push origin feature/AmazingFeature`
-5. **Open a Pull Request**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+If you feel you have a useful contribution to the clean pack please go to the discord at discord.gg/cleanpack
 
 ## Contact
 
